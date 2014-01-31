@@ -1,0 +1,25 @@
+{
+  "name": "outer-html",
+  "version": "0.0.0",
+  "description": "Basic cross-platform methods for editing outer HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova"
+  },
+  "devDependencies": {
+    "prova": "*",
+    "is-node": "0.x",
+    "domify": "0.x",
+    "multiline": "0.x"
+  },
+  "keywords": [
+    "dom",
+    "html"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/outer-html.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
